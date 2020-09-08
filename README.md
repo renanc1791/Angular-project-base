@@ -1,12 +1,5 @@
 # Angular Project Template &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-<div align="center">
-  <a href="https://angular.io/" target="blank"><img src="./img/angular.png" width="320" height="280" alt="Angular Logo" /></a>
-</div>
-<div>
-
-<h1 align="center"> Template de desarrollo Angular 2+ frontend</h1>
-
 > Angular 2+
 
 > Typescript
