@@ -46,7 +46,7 @@ A continuación se listarán todos los puntos necesarios para comenzar a desarro
 ## Clonación
 
 ```bash
-git clone git@gitlab.com:arquitectura-agilesoft/example-front.git
+git clone git@github.com:dcortesnet/Angular-project-base.git
 ```
 * **Recuerda configurar tus llaves ssh**
     * https://docs.gitlab.com/ee/ssh/
