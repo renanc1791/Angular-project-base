@@ -8,7 +8,7 @@
 
 > Docker
 
-> CI/CD
+> CI/CD (En proceso)
 
 Descripción del proyecto : Proyecto template de directrices para la estandarización de un proyecto, el objetivo del proyecto es que los desarrolladores puedan seguir la estructura conformada por este proyecto tanto como su archivo README, estructuras de carpeta estándar y su ciclo básico de CI/CD, con el motivo de mejorar y facilitar los tiempos de desarrollo y despliegue en cada uno de los proyectos.
 
@@ -29,7 +29,6 @@ Descripción del proyecto : Proyecto template de directrices para la estandariza
 - [Documentación](#documentación)
     - [Estructura](#estructura)
     - [Conceptos](#conceptos)
-- [Equipo](#equipo)
 
 ## Comenzando
 
