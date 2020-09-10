@@ -46,7 +46,7 @@ A continuación se listarán todos los puntos necesarios para comenzar a desarro
 ## Clonación
 
 ```bash
-git clone git@github.com:dcortesnet/Angular-project-base.git
+fit clone git@github.com:dcortesnet/Angular-project-base.git
 ```
 * **Recuerda configurar tus llaves ssh**
     * https://docs.gitlab.com/ee/ssh/
@@ -125,7 +125,7 @@ $ ng build
 
 ## Documentación
 
-A continuación se realizará una referencia a la arquitectura establecida en el proyecto junto a su convención de nombres y conceptos de ferencia. Arquitectura recomendada por el equipo de Agilesoft
+A continuación se realizará una referencia a la arquitectura establecida en el proyecto junto a su convención de nombres y conceptos de ferencia. Arquitectura base recomendada por el equipo de Angular https://angular.io/guide/styleguide
 
 ## Estructura
 
